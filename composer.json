@@ -1,0 +1,18 @@
+{
+    "name": "musahmusah/square1-user-service",
+    "description": "User Service for square Microservice Package",
+    "require": {
+        "laravel/framework": "^9.11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Musahmusah\\Square1UserService\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MusahMusah",
+            "email": "shehialiyu0@gmail.com"
+        }
+    ]
+}
