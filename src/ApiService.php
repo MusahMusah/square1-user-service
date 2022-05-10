@@ -2,8 +2,7 @@
 
 namespace Services;
 
-use HttpException;
-//use Symfony\Component\HttpKernel\Exception\HttpException;
+use Symfony\Component\HttpKernel\Exception\HttpException;
 
 abstract class ApiService
 {
